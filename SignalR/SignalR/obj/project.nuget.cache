@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jjOKORGoMiRWmtLj/KuLoFA7CQZpfO+Q4uSyPovwvG1W5GMxoPTXRXo1GA78W4u6Cj4ZeuuFOBFESzgzSpOig==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Respati\\source\\repos\\SignalR\\SignalR\\SignalR.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\Respati\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

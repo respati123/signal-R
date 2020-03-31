@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "E:\\Users\\Respati\\.dotnet\\store\\|arch|\\|tfm|",
+      "E:\\Users\\Respati\\.nuget\\packages"
+    ]
+  }
+}
